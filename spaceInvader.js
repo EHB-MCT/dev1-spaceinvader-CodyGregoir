@@ -51,3 +51,8 @@ context.beginPath();
 context.rect(225, 250, 50, 50);
 context.fill();
 
+context.lineWidth = 1;
+context.fillstyle = '#66FF00';
+context.beginPath();
+context.rect(75, 250, 50, 50);
+context.fill();
